@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajagurumahalingam
 - 👀 I’m interested in Front end projects like React, Angular and Javascript
-- 💞️ I’m looking to collaborate on Angular and ReactJS projects
+- 💞️ I’m looking to collaborate on ReactJS and web3 projects
 - 📫 How to reach me ... .... ... mrguru1115@gmail.com
 
 <!---
